@@ -1,1 +1,1 @@
-https://baki10.github.io/todo/
+https://bakigoal.github.io/todo/
